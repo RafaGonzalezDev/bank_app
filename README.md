@@ -1,5 +1,9 @@
 ### HooBank
 
+#### Project Preview
+
+![Project Preview](./src/assets/preview_hoobank.png)
+
 #### Description
 
 HooBank is a web application based on a Figma design that provides users with a platform to explore various financial services and products. The application showcases features, user feedback, statistics, and client logos.
